@@ -18,7 +18,7 @@ I'm specially proud that in less than 5 hours, I developed the complete challeng
 
 ## :camera_flash: Screenshots
 <!-- You can add more screenshots here if you like -->
-<img src="/results/screenshot_1.jpg" width="260">&emsp;<img src="/results/screenshot_1.jpg" width="260">
+<img src="/results/screenshot_1.jpg" width="260">&emsp;<img src="/results/screenshot_2.jpg" width="260">
 
 ## License
 ```
