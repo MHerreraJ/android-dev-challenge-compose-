@@ -25,10 +25,13 @@
             android:theme="@style/Theme.AndroidDevChallenge.NoActionBar">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
-
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name=".PuppyDetailsActivity"
+            android:exported="true"
+            android:label="Puppy Details"
+            android:theme="@style/Theme.AndroidDevChallenge.NoActionBar"/>
     </application>
 
 </manifest>
